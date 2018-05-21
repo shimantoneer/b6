@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.walmart.com/browse/jewelry/promise-rings/3891_540912_1228412");
+header("Location: http://anthonyrizk.org/services-in-lebanon-middle-east/motivational-speaker-in-lebanon-middle-east/");
 die();
 ?>
